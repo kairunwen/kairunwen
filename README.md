@@ -1,10 +1,8 @@
-<img align="right" src="assets/kairun-wen.png" alt="Kairun Wen" width="220" />
-
 # Hi, I'm Kairun Wen (温凯润) 👋
 
-**Robot-use Agent · Embodied Foundation Model · Spatial intelligence**
+<img align="right" src="assets/kairun-wen.png" alt="Kairun Wen" width="220" />
 
-I'm a PhD student at **MMLab, The Chinese University of Hong Kong**.
+I'm a PhD student at **MMLab, The Chinese University of Hong Kong**. My research focuses on **spatial intelligence, world models, and embodied AI**.
 
 I work on helping agents perceive, understand, and interact with the dynamic physical world, from **3D/4D scene representations** to **multimodal reasoning and embodied agents**.
 
@@ -22,4 +20,4 @@ I work on helping agents perceive, understand, and interact with the dynamic phy
 
 - **[Awesome Robot-Use Agent](https://github.com/kairunwen/Awesome-Robot-Use-Agent)** — Papers, tools, benchmarks, and demos for robot-use agents.
 
-I'm happy to connect with researchers working on spatial intelligence, world modeling, and embodied AI.
+I'm happy to connect with researchers working on **Robot-use Agent · Embodied Foundation Model · Spatial intelligence**.
