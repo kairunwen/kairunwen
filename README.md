@@ -6,7 +6,7 @@ I'm a first-year Ph.D. student at **[MMLab, The Chinese University of Hong Kong]
 
 My long-term goal is to develop **embodied foundation models with multimodal spatial intelligence**. I aim to enable **robot-use agents** to understand and model the dynamic physical world, plan and act through robotic skills and tools, and adapt through interaction and feedback.
 
-[Google Scholar](https://scholar.google.com/citations?user=RzRhziMAAAAJ) · [X](https://x.com/KairunWen) · [LinkedIn](https://www.linkedin.com/in/kairun-wen-8413172ab/) · [Email](mailto:wenkairun@gmail.com)
+[Email](mailto:wenkairun@gmail.com) · [X](https://x.com/KairunWen) · [RedNote](https://www.xiaohongshu.com/user/profile/5b003ed14eacab54c3be8a61) · [LinkedIn](https://www.linkedin.com/in/kairun-wen-8413172ab/) · [Google Scholar](https://scholar.google.com/citations?user=RzRhziMAAAAJ)
 
 <br clear="all" />
 
