@@ -2,7 +2,9 @@
 
 # Hi, I'm Kairun Wen (温凯润) 👋
 
-I'm a PhD student at **MMLab, The Chinese University of Hong Kong**. My research focuses on **spatial intelligence, world models, and embodied AI**.
+**Robot-use Agent · Embodied Foundation Model · Spatial intelligence**
+
+I'm a PhD student at **MMLab, The Chinese University of Hong Kong**.
 
 I work on helping agents perceive, understand, and interact with the dynamic physical world, from **3D/4D scene representations** to **multimodal reasoning and embodied agents**.
 
